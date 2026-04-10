@@ -10,5 +10,7 @@ Dataset Description
 The analysis is based on three relational datasets:
 
 Fact Table: 4,200+ transaction records including sales, profit, COGS, and expenses
+
 Product Table: Product categories and types
+
 Location Table: Geographic data including state and market size
